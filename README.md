@@ -143,7 +143,7 @@
         1. Vertical Computational Scaling
             - Have faster processors
             - disabv: processor speed is limited  
-              Moore's law is no longer working, CPU stop goes faster as we expected (Transistors can not be shrinked any more
+              Moore's law is no longer working, CPU stop goes faster as we expected (Transistors can not be shrinked any more)
         2. Horizontal Computational Scaling
             - Have more processors
             - adv: 
@@ -170,10 +170,12 @@
 2. network scaling
     - volume of data on network grows each year
 3. massive amount of data generated among a time requires compute infrasture
-    - e.g. mapping the sky with data from tele-scope
+    -  Data Past - Punch cards, Punched streamed tapes, Magnetic tapes, Floppies, Cd, DVD, Hard disks, Shared storage, Mobile Storage, Internet(google drive,...)
+    -  Exponential growth of data
+    -  e.g. mapping the sky with data from tele-scope
 5. Cloud Computing in Different Domains
-    - **High energy physics**
-    - Astrophysics
+    - **High energy physics**  25 PB data per year. 20years ago
+    - Astrophysics    40,000 PB per day. Now.
     - **Macro-micro simulations**
     - Electronics
     - Arts and humanities
