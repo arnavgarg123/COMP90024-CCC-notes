@@ -143,7 +143,7 @@
         1. Vertical Computational Scaling
             - Have faster processors
             - disabv: processor speed is limited  
-              Moore's law is no longer working, CPU stop goes faster as we expected
+              Moore's law is no longer working, CPU stop goes faster as we expected (Transistors can not be shrinked any more
         2. Horizontal Computational Scaling
             - Have more processors
             - adv: 
